@@ -7,8 +7,8 @@ HERE = Path(__file__).resolve().parent
 
 S = 4
 W = 2
-res = 1000
-resC= 1000j
+res = 200
+resC= 200j
 INF = 1000
 
 @dataclass
